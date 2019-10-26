@@ -1,0 +1,15 @@
+.maindiv{
+    padding-left: 500px;
+    /* margin-left: 200px; */
+    width: 900px;
+    font-size: 24px;
+}
+
+.italicfont{
+    font:bold;
+    font-style: italic;
+}
+img{
+    margin-left: 320px;
+    height: 200px;
+}
